@@ -1,17 +1,17 @@
 @font-face{
-    src:url("../fonts/circular-std-font-family/CircularStd-Black.ttf") format("truetype");
+    src:url("..fonts/circular-std-font-family/CircularStd-Black.ttf") format("truetype");
     font-family: "circular" ;
 }
 @font-face{
-    src:url("../fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+    src:url("..fonts/Poppins/Poppins-Regular.ttf") format("truetype");
     font-family: "poppins";
 }
 @font-face{
-    src: url("../fonts/Poppins/Poppins-Medium.ttf") format("truetype");
+    src: url("..fonts/Poppins/Poppins-Medium.ttf") format("truetype");
     font-family: "poppins-medium";
 }
 @font-face{
-    src: url("../fonts/Volkhov/Volkhov-Regular.ttf") format("truetype");
+    src: url("..fonts/Volkhov/Volkhov-Regular.ttf") format("truetype");
     font-family: "Regular";
 }
 :root{
@@ -81,7 +81,7 @@
     color: var(--hoverco);
 }
 .back-img{
-    background-image: url(../images/losangels.jpg);
+    background-image: url(..images/losangels.jpg);
     height: 600px;
     background-size: cover;
 }
