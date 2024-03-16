@@ -81,7 +81,7 @@
     color: var(--hoverco);
 }
 .back-img{
-    background-image: url(..images/losangels.jpg);
+    background-image: url(../images/losangels.jpg);
     height: 600px;
     background-size: cover;
 }
